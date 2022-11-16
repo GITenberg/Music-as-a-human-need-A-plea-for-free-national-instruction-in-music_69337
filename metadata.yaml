@@ -1,0 +1,25 @@
+_repo: Music-as-a-human-need-A-plea-for-free-national-instruction-in-music_69337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, Alma Webster
+    gutenberg_agent_id: '55217'
+    url: http://www.gutenberg.org/2009/agents/55217
+description: ''
+gutenberg_issued: '2022-11-12'
+identifiers:
+  gutenberg: '69337'
+language: en
+pgterms:marc904: https://archive.org/details/musicashumanneed00powerich/page/n5/mode/2up
+pgterms:marc905: 20220802183950powell
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Music as a human need: A plea for free national instruction in music'
+url: http://www.gutenberg.org/ebooks/69337
