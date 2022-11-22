@@ -1,11 +1,16 @@
 _repo: Music-as-a-human-need-A-plea-for-free-national-instruction-in-music_69337
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69337-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, Alma Webster
     gutenberg_agent_id: '55217'
     url: http://www.gutenberg.org/2009/agents/55217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69337#Music-as-a-human-need-A-plea-for-free-national-instruction-in-music
 gutenberg_issued: '2022-11-12'
 identifiers:
   gutenberg: '69337'
